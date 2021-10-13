@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello Git2");
         System.out.println("hello Git3");
         System.out.println("hello hot-fix");
+        System.out.println("pull the code");
     }
 }
